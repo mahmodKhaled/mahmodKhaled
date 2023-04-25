@@ -6,10 +6,10 @@ My specialization in natural language processing (NLP) has allowed me to apply m
 
 <h3 align="left">Connect with me:</h3>
 
-| Media  |
-| ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/mahmod-khaled/)  |
-| [Twitter ](https://twitter.com/mahmoud97265350)  |
+| Media  | Summary |
+| ------------- | ------------- |
+| [LinkedIn ](https://www.linkedin.com/in/mahmod-khaled/)  | My professional account to connect with me  |
+| [Twitter ](https://twitter.com/mahmoud97265350)  | My perosnal Account to share my thoughts and ideas  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmodKhaled &label=Profile%20views&color=0e75b6&style=flat" alt="mahmodKhaled " /> </p>
 
