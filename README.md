@@ -27,6 +27,9 @@ My specialization in natural language processing (NLP) has allowed me to apply m
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>  
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google_colab" width="40" height="40"/> </a>
 </p>
 
 
