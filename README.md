@@ -2,7 +2,7 @@
 
 I am a machine learning engineer, I am passionate about leveraging the power of AI to make a positive impact on people's lives. With a strong foundation in computer science and mathematics, I have developed a keen interest in developing cutting-edge algorithms for real-world applications.
 
-My specialization in natural language processing (NLP) has allowed me to apply machine learning techniques to analyze and interpret human language data. I am particularly interested in the potential of NLP to improve communication between humans and machines, as well as to enhance various aspects of our daily lives, such as language translation and sentiment analysis. In addition to my academic pursuits, I have gained practical experience working as a machine learning engineer on various projects.
+My specialization in natural language processing (NLP) has allowed me to apply machine learning techniques to analyze and interpret human language data. I have gained practical experience working as a machine learning engineer on various projects.
 
 <h3 align="left">Connect with me:</h3>
 
