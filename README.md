@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="left">Hi, I'm Mahmoud Khaled 👋</h1> 
 
-<!--
-**mahmodKhaled/mahmodKhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a machine learning engineer, I am passionate about leveraging the power of AI to make a positive impact on people's lives. With a strong foundation in computer science and mathematics, I have developed a keen interest in developing cutting-edge algorithms for real-world applications.
 
-Here are some ideas to get you started:
+My specialization in natural language processing (NLP) has allowed me to apply machine learning techniques to analyze and interpret human language data. I am particularly interested in the potential of NLP to improve communication between humans and machines, as well as to enhance various aspects of our daily lives, such as language translation and sentiment analysis. In addition to my academic pursuits, I have gained practical experience working as a machine learning engineer on various projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+
+| Media  |
+| ------------- |
+| [LinkedIn ](https://www.linkedin.com/in/mahmod-khaled/)  |
+| [Twitter ](https://twitter.com/mahmoud97265350)  |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmodKhaled &label=Profile%20views&color=0e75b6&style=flat" alt="mahmodKhaled " /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmodKhaled " alt="mahmodKhaled" /></a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="keras" width="40" height="40"/></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg256px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="google colab" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="40" height="40"/> </a>
+</p>
+
