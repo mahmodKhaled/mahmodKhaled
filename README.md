@@ -4,6 +4,10 @@ I am a machine learning engineer, I am passionate about leveraging the power of 
 
 My specialization in natural language processing (NLP) has allowed me to apply machine learning techniques to analyze and interpret human language data. I have gained practical experience working as a machine learning engineer on various projects.
 
+### You can find my projects and previous work here:
+
+- [Data Science Portfolio](https://www.datascienceportfol.io/mahmoudkhaled23)
+
 <h3 align="left">Connect with me:</h3>
 
 | Media  | Summary |
